@@ -1,0 +1,26 @@
+{
+  "version": 2,
+  "dgSpecHash": "IbCJOvnUuIai9o7ld8pMJNtlTGf3Tmq0wOA58433Cs/09+TL7FNWW2qQchHfQENm6GbQm1ivnuYb6C3MsEqqng==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\miste\\source\\repos\\DeLauncherFormCore6\\DeLauncherFormCore6\\DeLauncherFormCore6.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\miste\\.nuget\\packages\\microsoft.netcore.platforms\\5.0.0\\microsoft.netcore.platforms.5.0.0.nupkg.sha512",
+    "C:\\Users\\miste\\.nuget\\packages\\microsoft.win32.registry\\5.0.0\\microsoft.win32.registry.5.0.0.nupkg.sha512",
+    "C:\\Users\\miste\\.nuget\\packages\\naudio\\2.0.1\\naudio.2.0.1.nupkg.sha512",
+    "C:\\Users\\miste\\.nuget\\packages\\naudio.asio\\2.0.0\\naudio.asio.2.0.0.nupkg.sha512",
+    "C:\\Users\\miste\\.nuget\\packages\\naudio.core\\2.0.0\\naudio.core.2.0.0.nupkg.sha512",
+    "C:\\Users\\miste\\.nuget\\packages\\naudio.midi\\2.0.1\\naudio.midi.2.0.1.nupkg.sha512",
+    "C:\\Users\\miste\\.nuget\\packages\\naudio.wasapi\\2.0.0\\naudio.wasapi.2.0.0.nupkg.sha512",
+    "C:\\Users\\miste\\.nuget\\packages\\naudio.winforms\\2.0.1\\naudio.winforms.2.0.1.nupkg.sha512",
+    "C:\\Users\\miste\\.nuget\\packages\\naudio.winmm\\2.0.1\\naudio.winmm.2.0.1.nupkg.sha512",
+    "C:\\Users\\miste\\.nuget\\packages\\system.codedom\\5.0.0\\system.codedom.5.0.0.nupkg.sha512",
+    "C:\\Users\\miste\\.nuget\\packages\\system.management\\5.0.0\\system.management.5.0.0.nupkg.sha512",
+    "C:\\Users\\miste\\.nuget\\packages\\system.security.accesscontrol\\5.0.0\\system.security.accesscontrol.5.0.0.nupkg.sha512",
+    "C:\\Users\\miste\\.nuget\\packages\\system.security.principal.windows\\5.0.0\\system.security.principal.windows.5.0.0.nupkg.sha512",
+    "C:\\Users\\miste\\.nuget\\packages\\microsoft.netcore.app.runtime.win-x64\\6.0.0-preview.5.21301.5\\microsoft.netcore.app.runtime.win-x64.6.0.0-preview.5.21301.5.nupkg.sha512",
+    "C:\\Users\\miste\\.nuget\\packages\\microsoft.netcore.app.crossgen2.win-x64\\6.0.0-preview.5.21301.5\\microsoft.netcore.app.crossgen2.win-x64.6.0.0-preview.5.21301.5.nupkg.sha512",
+    "C:\\Users\\miste\\.nuget\\packages\\microsoft.windowsdesktop.app.runtime.win-x64\\6.0.0-preview.5.21301.4\\microsoft.windowsdesktop.app.runtime.win-x64.6.0.0-preview.5.21301.4.nupkg.sha512",
+    "C:\\Users\\miste\\.nuget\\packages\\microsoft.aspnetcore.app.runtime.win-x64\\6.0.0-preview.5.21301.17\\microsoft.aspnetcore.app.runtime.win-x64.6.0.0-preview.5.21301.17.nupkg.sha512"
+  ],
+  "logs": []
+}

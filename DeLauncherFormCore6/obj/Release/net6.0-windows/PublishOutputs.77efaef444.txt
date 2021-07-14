@@ -1,0 +1,14 @@
+C:\Users\miste\source\repos\DeLauncherFormCore6\DeLauncherFormCore6\bin\Release\net6.0-windows\publish2\DeLauncherFormCore6.exe
+C:\Users\miste\source\repos\DeLauncherFormCore6\DeLauncherFormCore6\bin\Release\net6.0-windows\publish2\DeLauncherFormCore6.dll
+C:\Users\miste\source\repos\DeLauncherFormCore6\DeLauncherFormCore6\bin\Release\net6.0-windows\publish2\DeLauncherFormCore6.deps.json
+C:\Users\miste\source\repos\DeLauncherFormCore6\DeLauncherFormCore6\bin\Release\net6.0-windows\publish2\DeLauncherFormCore6.runtimeconfig.json
+C:\Users\miste\source\repos\DeLauncherFormCore6\DeLauncherFormCore6\bin\Release\net6.0-windows\publish2\DeLauncherFormCore6.pdb
+C:\Users\miste\source\repos\DeLauncherFormCore6\DeLauncherFormCore6\bin\Release\net6.0-windows\publish2\NAudio.dll
+C:\Users\miste\source\repos\DeLauncherFormCore6\DeLauncherFormCore6\bin\Release\net6.0-windows\publish2\NAudio.Asio.dll
+C:\Users\miste\source\repos\DeLauncherFormCore6\DeLauncherFormCore6\bin\Release\net6.0-windows\publish2\NAudio.Core.dll
+C:\Users\miste\source\repos\DeLauncherFormCore6\DeLauncherFormCore6\bin\Release\net6.0-windows\publish2\NAudio.Midi.dll
+C:\Users\miste\source\repos\DeLauncherFormCore6\DeLauncherFormCore6\bin\Release\net6.0-windows\publish2\NAudio.Wasapi.dll
+C:\Users\miste\source\repos\DeLauncherFormCore6\DeLauncherFormCore6\bin\Release\net6.0-windows\publish2\NAudio.WinForms.dll
+C:\Users\miste\source\repos\DeLauncherFormCore6\DeLauncherFormCore6\bin\Release\net6.0-windows\publish2\NAudio.WinMM.dll
+C:\Users\miste\source\repos\DeLauncherFormCore6\DeLauncherFormCore6\bin\Release\net6.0-windows\publish2\System.Management.dll
+C:\Users\miste\source\repos\DeLauncherFormCore6\DeLauncherFormCore6\bin\Release\net6.0-windows\publish2\runtimes\win\lib\netcoreapp2.0\System.Management.dll
